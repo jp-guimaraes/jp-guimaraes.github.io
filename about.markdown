@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Engenheiro de Computação pela Universidade Federal do Rio Grande do Norte - UFRN. Mestre e Doutorando pelo Programa de Pós-Graduação em Engenharia Elétrica e Computação da UFRN. Foi pesquisador visitante (Visiting Reseach Scholar) na University of Texas at El Paso - UTEP. Atualmente é Professor Efetivo do Instituo Federal de Educação Ciência e Tecnologia do Rio Grande do Norte - IFRN no campus João Câmara. Tem experiência com teoria da informação, aprendizado de máquina, processamento digital de sinais e robótica.
 
 
-[jekyll-organization]: https://github.com/jekyll
+Currículo [lattes](http://lattes.cnpq.br/8309552415999065)
+
+[Github](http://github.com/jp-guimaraes)
