@@ -11,3 +11,7 @@ Nos últimos 6 meses tenho usado controle de versão para escrever artigos cient
 Vou usar o [github](github.com/jp-guimaraes) para armazenar tudo por enquanto. Na medida do possível vou deixar os repositórios públicos. Assim, esse site só existe para prover um ambiente com a interface minimamente amigável para acompanhar as minhas atividades de ensino, pesquisa e extensão. Estou usando o [Jekyll][jekyll-gh] para gerar o site.
 
 Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para <joao.guimaraes@ifrn.edu.br>
+
+
+
+[jekyll-gh]:   https://github.com/jekyll/jekyll
