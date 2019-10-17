@@ -1,29 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-08-30 20:25:19 -0300
-categories: jekyll update
+title:  "Hello world"
+date:   2019-10-17 15:09:19 -0300
+categories: meta
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello world,
 
-Jekyll requires blog post files to be named according to the following format:
+Nos últimos 6 meses tenho usado controle de versão para escrever artigos científicos e minha tese de doutorado. Achei que foi uma experiência positiva e por isso pretendo ampliar o uso também para atividades de ensino e extensão.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Vou usar o [github](github.com/jp-guimaraes) para armazenar tudo por enquanto. Na medida do possível vou deixar os repositórios públicos. Assim, esse site só existe para prover um ambiente com a interface minimamente amigável para acompanhar as minhas atividades de ensino, pesquisa e extensão. Estou usando o [Jekyll][jekyll-gh] para gerar o site.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para <joao.guimaraes@ifrn.edu.br>
