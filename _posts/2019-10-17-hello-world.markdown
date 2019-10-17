@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hello world"
+title:  "Olá mundo"
 date:   2019-10-17 15:09:19 -0300
 categories: meta
 ---
-Hello world,
+Olá mundo,
 
 Nos últimos 6 meses tenho usado controle de versão para escrever artigos científicos e minha tese de doutorado. Achei que foi uma experiência positiva e por isso pretendo ampliar o uso também para atividades de ensino e extensão.
 
