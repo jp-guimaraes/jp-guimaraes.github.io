@@ -10,3 +10,5 @@ Engenheiro de Computação pela Universidade Federal do Rio Grande do Norte - [U
 Currículo [lattes](http://lattes.cnpq.br/8309552415999065)
 
 [Github](http://github.com/jp-guimaraes)
+
+[Google Scholar](https://scholar.google.com.br/citations?user=88VbY0wAAAAJ&hl=pt-BR&oi=sra)
