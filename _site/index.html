@@ -15,7 +15,11 @@
 <script type="application/ld+json">
 {"@type":"WebSite","url":"http://localhost:4000/","name":"João Paulo F. Guimarães","headline":"João Paulo F. Guimarães","description":"Espaço dedicado a atividades de ensino, pesquisa e extensão do professor João Paulo Ferreira Guimarães","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="João Paulo F. Guimarães" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="João Paulo F. Guimarães" />
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %
+</head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">João Paulo F. Guimarães</a><nav class="site-nav">
