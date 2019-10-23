@@ -15,5 +15,5 @@ Faltando um dia para a entrega do seu trabalho de fim de curso, por acidente, vo
 
 Por isso, nessa aula pretende-se mostrar várias estratégias de manutenção corretiva e preventiva relacionadas ao armazenamento de dados.
 
-Os slides usados na aula podem ser encontrados [aqui](https://jp-guimaraes.github.io/data_recovery). Se quiser contribuir para essa aula, o código pode ser encontrado [aqui](https://github.com/jp-guimaraes/data_recovery). Comentários, críticas e dúvidas também são sempre bem-vindas, basta enviar um e-mail para <joao.guimaraes@ifrn.edu.br>. 
+Os slides usados na aula podem ser encontrados [aqui](https://jp-guimaraes.github.io/data_recovery). Eles vão sendo atualizados aos poucos. Se quiser contribuir para essa aula, o código pode ser encontrado [aqui](https://github.com/jp-guimaraes/data_recovery). Comentários, críticas e dúvidas também são sempre bem-vindas, basta enviar um e-mail para <joao.guimaraes@ifrn.edu.br>. 
 
