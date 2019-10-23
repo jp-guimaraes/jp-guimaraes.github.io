@@ -5,16 +5,15 @@ date:   2019-10-17 15:09:19 -0300
 categories: orgman
 ---
 
-Neste tópico estarei referenciando o material relacionado a disciplina de Organização e Manutenção de Computadores, planejada para o nivél técnico integrado do [curso de informática do IFRN](ppp-int-info). 
+Neste tópico estarei referenciando o material relacionado a disciplina de Organização e Manutenção de Computadores, planejada para o nivél técnico integrado do [curso de informática do IFRN](http://portal.ifrn.edu.br/campus/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view). 
 
-Esse curso é, basicamente, a junção dos cursos de Manutenção Básica e Avançada, oferecida ao [curso técnico subsequente de informática](ppp-sub-info).
+Esse curso é, basicamente, a junção dos cursos de Manutenção Básica e Avançada, oferecida ao [curso técnico subsequente de informática](http://portal.ifrn.edu.br/campus/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-subsequente/tecnico-de-nivel-medio-em-informatica/view).
 
 * [Introdução a Manutenção de Computadores](https://jp-guimaraes.github.io/intro_manu)
 * [Recuperação de Dados](https://jp-guimaraes.github.io/data_recovery)
 
+
 Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para <joao.guimaraes@ifrn.edu.br>
 
-[ppp-sub-info]: http://portal.ifrn.edu.br/campus/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-subsequente/tecnico-de-nivel-medio-em-informatica/view
 
-[ppp-int-info]: http://portal.ifrn.edu.br/campus/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view
 [jekyll-gh]:   https://github.com/jekyll/jekyll
