@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "teste"
+date:   2019-10-17 15:09:19 -0300
+categories: teste
+---
+
+![useful image]({{jp-guimaraes.github.io}}/assets/var.png)
