@@ -55,4 +55,7 @@ plugins:
 #   - vendor/ruby/
 
 # Google Analytics
-google_analytics: UA—149863998-1
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA—149863998-1          # Required - replace with your tracking id
+    anonymizeIp: false
