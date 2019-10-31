@@ -8,7 +8,7 @@ categories: fund
 Neste tópico estarei referenciando o material relacionado a disciplina de Fundamentos de Lógica e Algoritmos planejada para o nivél técnico integrado do [curso de informática do IFRN](http://portal.ifrn.edu.br/campus/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view). 
 
 
-Para demostrar os conceitos básicos de programação foi escolhida a linguagem ~Python~ Java. Foi necessário mudar para Java para manter compatibilidade com outras disciplinas do curso. 
+Para demostrar os conceitos básicos de programação foi escolhida a linguagem <s>Python</s> Java. Foi necessário mudar para Java para manter compatibilidade com outras disciplinas do curso. 
 
 Inicialmente, o curso foi pensado para ser estudado usando [Jupyter Notebooks](https://jupyter.org/). Recomendo o uso do [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe) para instalar na sua máquina. 
 
