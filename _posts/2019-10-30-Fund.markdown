@@ -20,6 +20,8 @@ Para execução dos jupyter notebooks recomendo o uso do [Binder](http://mybinde
 
 * [Primeira lista de exercícios](https://github.com/jp-guimaraes/intro_java/blob/master/lista1/pdf/main.pdf)
 
+* [Segunda lista de exercícios](https://github.com/jp-guimaraes/intro_java/tree/master/lista2)
+
 Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para <joao.guimaraes@ifrn.edu.br>
 
 
