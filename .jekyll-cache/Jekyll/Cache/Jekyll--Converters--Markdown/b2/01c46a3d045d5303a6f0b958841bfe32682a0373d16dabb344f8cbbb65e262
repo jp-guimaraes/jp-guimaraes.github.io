@@ -1,0 +1,30 @@
+I"�<p>Neste tópico estarei referenciando o material relacionado a disciplina de Organização e Manutenção de Computadores, planejada para o nivél técnico integrado do <a href="http://portal.ifrn.edu.br/campus/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view">curso de informática do IFRN</a>.</p>
+
+<p>Esse curso é, basicamente, a junção dos cursos de Manutenção Básica e Avançada, oferecida ao <a href="http://portal.ifrn.edu.br/campus/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-subsequente/tecnico-de-nivel-medio-em-informatica/view">curso técnico subsequente de informática</a>.</p>
+
+<ul>
+  <li>
+    <p><a href="https://jp-guimaraes.github.io/intro_manu">Introdução a Manutenção de Computadores</a></p>
+  </li>
+  <li><a href="https://github.com/jp-guimaraes/clonagem/tree/master/revisao">Revisão - Comandos linux</a></li>
+  <li>
+    <p><a href="https://github.com/jp-guimaraes/clonagem">Clonagem de discos</a></p>
+  </li>
+  <li>
+    <p><a href="https://jp-guimaraes.github.io/orgman,data_recovery/2019/10/17/dataRec.html">Recuperação de Dados</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/jp-guimaraes/data_recovery">Recuperação de Dados - Repositório</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/jp-guimaraes/data_recovery/tree/master/pratica">Roteiro de aula prática</a></p>
+  </li>
+  <li>
+    <p><a href="https://jp-guimaraes.github.io/data_recovery/#/">Slides - Recuperação de dados</a></p>
+  </li>
+  <li><a href="https://jp-guimaraes.github.io/raid/#/">Slides - RAID</a></li>
+</ul>
+
+<p>Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para <a href="mailto:joao.guimaraes@ifrn.edu.br">joao.guimaraes@ifrn.edu.br</a></p>
+
+:ET

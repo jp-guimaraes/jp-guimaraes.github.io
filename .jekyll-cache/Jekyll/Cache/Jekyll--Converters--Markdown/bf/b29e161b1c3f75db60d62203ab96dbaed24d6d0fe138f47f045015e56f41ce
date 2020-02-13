@@ -1,0 +1,24 @@
+I"�<p>Neste tópico estarei referenciando o material relacionado a disciplina de Fundamentos de Lógica e Algoritmos planejada para o nivél técnico integrado do <a href="http://portal.ifrn.edu.br/campus/ensino/cursos/cursos-tecnicos-de-nivel-medio/tecnico-integrado/tecnico-em-informatica/view">curso de informática do IFRN</a>.</p>
+
+<p>Para demostrar os conceitos básicos de programação foi escolhida a linguagem <s>Python</s> Java. Foi necessário mudar para Java para manter compatibilidade com outras disciplinas do curso.</p>
+
+<p>Inicialmente, o curso foi pensado para ser estudado usando <a href="https://jupyter.org/">Jupyter Notebooks</a>. Recomendo o uso do <a href="https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe">Anaconda</a> para instalar na sua máquina.</p>
+
+<p>Estou guardando os notebooks das aulas em um repositório no <a href="https://github.com/jp-guimaraes/intro_python">github</a>.</p>
+
+<p>Para execução dos jupyter notebooks recomendo o uso do <a href="http://mybinder.org">Binder</a>.</p>
+
+<p><strong>EDIT</strong>: <s>Vou criar um novo repositório com os códigos em Java em breve. </s> O repositório com os códigos Java é <a href="https://github.com/jp-guimaraes/intro_java">esse aqui</a>.</p>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/jp-guimaraes/intro_java/blob/master/lista1/pdf/main.pdf">Primeira lista de exercícios</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/jp-guimaraes/intro_java/tree/master/lista2">Segunda lista de exercícios</a></p>
+  </li>
+</ul>
+
+<p>Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para <a href="mailto:joao.guimaraes@ifrn.edu.br">joao.guimaraes@ifrn.edu.br</a></p>
+
+:ET
