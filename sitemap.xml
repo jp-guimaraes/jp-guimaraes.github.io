@@ -7,11 +7,35 @@
   </url>
   
   <url>
+    <loc>/blog/olamundo/</loc>
+  </url>
+  
+  <url>
+    <loc>/ensino/workshop_arduino/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/teste/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/teste2/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
   </url>
   
   <url>
+    <loc>/blog/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/ensino/</loc>
   </url>
   
   <url>

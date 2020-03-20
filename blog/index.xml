@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | João Guimarães</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Blogs | João Guimarães</title>
+    <link>/blog/</link>
+      <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blogs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>Blogs</title>
+      <link>/blog/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/post/teste/</link>
+      <link>/blog/olamundo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/teste/</guid>
+      <guid>/blog/olamundo/</guid>
       <description>&lt;p&gt;Olá mundo,&lt;/p&gt;
 &lt;p&gt;Nos últimos 6 meses tenho usado controle de versão para escrever artigos científicos e minha tese de doutorado. Achei que foi uma experiência positiva e por isso pretendo ampliar o uso também para atividades de ensino e extensão.&lt;/p&gt;
 &lt;p&gt;Vou usar o 
@@ -24,15 +24,6 @@
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Pages&lt;/a&gt; junto com o 
 &lt;a href=&#34;https://github.com/jekyll/jekyll&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jekyll&lt;/a&gt; para gerir o site.&lt;/p&gt;
 &lt;p&gt;Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para &lt;a href=&#34;mailto:joao.guimaraes@ifrn.edu.br&#34;&gt;joao.guimaraes@ifrn.edu.br&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/post/teste2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/teste2/</guid>
-      <description>&lt;p&gt;asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd&lt;/p&gt;
 </description>
     </item>
     

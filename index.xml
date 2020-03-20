@@ -12,5 +12,62 @@
       <link>/</link>
     </image>
     
+    <item>
+      <title></title>
+      <link>/blog/olamundo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/blog/olamundo/</guid>
+      <description>&lt;p&gt;Olá mundo,&lt;/p&gt;
+&lt;p&gt;Nos últimos 6 meses tenho usado controle de versão para escrever artigos científicos e minha tese de doutorado. Achei que foi uma experiência positiva e por isso pretendo ampliar o uso também para atividades de ensino e extensão.&lt;/p&gt;
+&lt;p&gt;Vou usar o 
+&lt;a href=&#34;https://github.com/jp-guimaraes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; para armazenar tudo por enquanto. Na medida do possível vou deixar os repositórios públicos. Assim, esse site só existe para prover um ambiente com a interface minimamente amigável para acompanhar as minhas atividades de ensino, pesquisa e extensão. Estou usando o 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Pages&lt;/a&gt; junto com o 
+&lt;a href=&#34;https://github.com/jekyll/jekyll&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jekyll&lt;/a&gt; para gerir o site.&lt;/p&gt;
+&lt;p&gt;Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para &lt;a href=&#34;mailto:joao.guimaraes@ifrn.edu.br&#34;&gt;joao.guimaraes@ifrn.edu.br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/ensino/workshop_arduino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/ensino/workshop_arduino/</guid>
+      <description>&lt;p&gt;Olá pessoal,&lt;/p&gt;
+&lt;p&gt;Nessa página vou referenciar alguns links referentes ao minicurso introdutório de Arduino, ministrado na Expotec do Campus do IFRN de João Câmara em 2019.&lt;/p&gt;
+&lt;p&gt;Os slides estão disponíveis 
+&lt;a href=&#34;https://jp-guimaraes.github.io/intro_arduino/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aqui&lt;/a&gt;. Fique a vontade para 
+&lt;a href=&#34;https://github.com/jp-guimaraes/intro_arduino&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;usar/contribuir&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Os firmwares usados no curso estão 
+&lt;a href=&#34;https://github.com/jp-guimaraes/intro_arduino/tree/master/codes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O minicurso usa o simulador 
+&lt;a href=&#34;https://www.tinkercad.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tinkercad&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para &lt;a href=&#34;mailto:joao.guimaraes@ifrn.edu.br&#34;&gt;joao.guimaraes@ifrn.edu.br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/teste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/teste/</guid>
+      <description>&lt;p&gt;Olá mundo,&lt;/p&gt;
+&lt;p&gt;Nos últimos 6 meses tenho usado controle de versão para escrever artigos científicos e minha tese de doutorado. Achei que foi uma experiência positiva e por isso pretendo ampliar o uso também para atividades de ensino e extensão.&lt;/p&gt;
+&lt;p&gt;Vou usar o 
+&lt;a href=&#34;https://github.com/jp-guimaraes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; para armazenar tudo por enquanto. Na medida do possível vou deixar os repositórios públicos. Assim, esse site só existe para prover um ambiente com a interface minimamente amigável para acompanhar as minhas atividades de ensino, pesquisa e extensão. Estou usando o 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Pages&lt;/a&gt; junto com o 
+&lt;a href=&#34;https://github.com/jekyll/jekyll&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jekyll&lt;/a&gt; para gerir o site.&lt;/p&gt;
+&lt;p&gt;Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para &lt;a href=&#34;mailto:joao.guimaraes@ifrn.edu.br&#34;&gt;joao.guimaraes@ifrn.edu.br&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/teste2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/teste2/</guid>
+      <description>&lt;p&gt;asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
