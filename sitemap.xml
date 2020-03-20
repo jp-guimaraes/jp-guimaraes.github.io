@@ -3,15 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/ensino/</loc>
+    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/olamundo/</loc>
+    <loc>/</loc>
+    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/ensino/workshop_arduino/</loc>
+    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-10-17T15:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/olamundo/</loc>
+    <lastmod>2019-10-17T15:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
@@ -27,19 +44,7 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/ensino/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
   </url>
   
   <url>
