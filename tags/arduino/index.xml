@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ensino | João Guimarães</title>
-    <link>/ensino/</link>
-      <atom:link href="/ensino/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ensino</description>
+    <title>arduino | João Guimarães</title>
+    <link>/tags/arduino/</link>
+      <atom:link href="/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <description>arduino</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 08:48:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Ensino</title>
-      <link>/ensino/</link>
+      <title>arduino</title>
+      <link>/tags/arduino/</link>
     </image>
     
     <item>

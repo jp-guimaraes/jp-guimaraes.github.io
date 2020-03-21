@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Paulo Ferreira Guimarães | João Guimarães</title>
+    <link>/sobre/</link>
+      <atom:link href="/sobre/index.xml" rel="self" type="application/rss+xml" />
+    <description>João Paulo Ferreira Guimarães</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>João Paulo Ferreira Guimarães</title>
+      <link>/sobre/</link>
+    </image>
+    
+  </channel>
+</rss>

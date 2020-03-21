@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/arduino/</loc>
+    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/ensino/</loc>
+    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ensino/</loc>
     <lastmod>2019-11-19T08:48:00+01:00</lastmod>
   </url>
   
@@ -18,12 +28,32 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/workshop/</loc>
+    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/comunicados/</loc>
+    <lastmod>2019-10-17T15:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/meta/</loc>
     <lastmod>2019-10-17T15:48:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/olamundo/</loc>
+    <lastmod>2019-10-17T15:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
     <lastmod>2019-10-17T15:48:00+01:00</lastmod>
   </url>
   
@@ -48,6 +78,14 @@
   </url>
   
   <url>
+    <loc>/sobre/</loc>
+  </url>
+  
+  <url>
+    <loc>/pesquisa/</loc>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
   </url>
   
@@ -61,10 +99,6 @@
   
   <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
