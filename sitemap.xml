@@ -3,37 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/ensino/</loc>
+    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ensino/</loc>
+    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/latex/</loc>
+    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ensino/workshop_latex/</loc>
+    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/workshop/</loc>
+    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/arduino/</loc>
     <lastmod>2019-11-19T08:48:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/ensino/</loc>
-    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ensino/</loc>
-    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/ensino/workshop_arduino/</loc>
-    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/workshop/</loc>
     <lastmod>2019-11-19T08:48:00+01:00</lastmod>
   </url>
   
