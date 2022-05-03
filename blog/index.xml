@@ -5,7 +5,7 @@
     <link>/blog/</link>
       <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2019 15:48:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Apr 2022 15:48:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
@@ -15,9 +15,9 @@
     <item>
       <title>Dicas!</title>
       <link>/blog/dicas/</link>
-      <pubDate>Thu, 17 Oct 2019 15:48:00 +0100</pubDate>
+      <pubDate>Sun, 03 Apr 2022 15:48:00 +0100</pubDate>
       <guid>/blog/dicas/</guid>
-      <description>&lt;p&gt;Algumas dicas de filmes, livros e podcasts em tempos de isolamento social.&lt;/p&gt;
+      <description>&lt;p&gt;Algumas dicas de filmes e livros com tópicos relacionados as disciplinas que leciono atualmente.&lt;/p&gt;
 &lt;h2 id=&#34;filmes&#34;&gt;Filmes:&lt;/h2&gt;
 &lt;p&gt;Sugiro assistir em ordem &amp;ldquo;cronológica&amp;rdquo;:&lt;/p&gt;
 &lt;ol&gt;
@@ -39,16 +39,7 @@
 &lt;h2 id=&#34;livros&#34;&gt;Livros&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Sapiens - Uma Breve História da Humanidade, Yuval Harari&lt;/li&gt;
-&lt;li&gt;A Revolução dos Bichos, George Orwell&lt;/li&gt;
-&lt;li&gt;Sociedade do Cansaço, Byung-Chul Han&lt;/li&gt;
-&lt;li&gt;Fundação, Isaac Asimov&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;podcasts&#34;&gt;Podcasts&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://www.boanoiteinternet.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boa noite, internet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://revistatrip.uol.com.br/tags/trip%E2%B8%BBcom%E2%B8%BBciencia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trip com Ciência&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;O problema dos três corpos, Cixin Liu&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Aceito sugestões : )&lt;/p&gt;
 </description>
@@ -65,7 +56,8 @@
 &lt;a href=&#34;https://github.com/jp-guimaraes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; para armazenar tudo por enquanto. Na medida do possível vou deixar os repositórios públicos. Assim, esse site só existe para prover um ambiente com a interface minimamente amigável para acompanhar as minhas atividades de ensino, pesquisa e extensão. Estou usando o 
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Pages&lt;/a&gt; junto com o 
 &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; para gerir o site.&lt;/p&gt;
-&lt;p&gt;Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para &lt;a href=&#34;mailto:joao.guimaraes@ifrn.edu.br&#34;&gt;joao.guimaraes@ifrn.edu.br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para 
+&lt;a href=&#34;mailto:joao.guimaraes@ifrn.edu.br&#34;&gt;joao.guimaraes@ifrn.edu.br&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
