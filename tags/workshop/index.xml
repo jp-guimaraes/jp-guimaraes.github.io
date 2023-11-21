@@ -5,32 +5,12 @@
     <link>/tags/workshop/</link>
       <atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>workshop</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Sep 2021 08:48:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 08:48:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>workshop</title>
       <link>/tags/workshop/</link>
     </image>
-    
-    <item>
-      <title>Minicurso Latex - Expotec IFRN/JC 2021</title>
-      <link>/ensino/workshop_latex/</link>
-      <pubDate>Thu, 23 Sep 2021 08:48:00 +0100</pubDate>
-      <guid>/ensino/workshop_latex/</guid>
-      <description>&lt;p&gt;Olá pessoal,&lt;/p&gt;
-&lt;p&gt;Nessa página vou referenciar alguns links úteis ao minicurso introdutório de escrita científica usando Latex, ministrado na Expotec do Campus do IFRN de João Câmara em 2021.&lt;/p&gt;
-&lt;p&gt;O PDF dos slides estão disponíveis 
-&lt;a href=&#34;https://github.com/jp-guimaraes/latex-intro/raw/main/Slides/Slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;O projeto modelo está disponível 
-&lt;a href=&#34;https://github.com/jp-guimaraes/latex-intro/raw/main/Arquivo%20Simples/%5BExpotec-teste%5D.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;O workshop usa o 
-&lt;a href=&#34;https://www.overleaf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt; como IDE.&lt;/p&gt;
-&lt;p&gt;Fique a vontade para usar/contribuir todos os arquivos estão disponíveis 
-&lt;a href=&#34;https://github.com/jp-guimaraes/latex-intro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nesse&lt;/a&gt; repositório no Github.&lt;/p&gt;
-&lt;p&gt;Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para 
-&lt;a href=&#34;mailto:joao.guimaraes@ifrn.edu.br&#34;&gt;joao.guimaraes@ifrn.edu.br&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Minicurso Arduíno - Expotec IFRN/JC 2019</title>

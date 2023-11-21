@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ensino | João Guimarães</title>
-    <link>/tags/ensino/</link>
-      <atom:link href="/tags/ensino/index.xml" rel="self" type="application/rss+xml" />
-    <description>ensino</description>
+    <title>minicurso | João Guimarães</title>
+    <link>/tags/minicurso/</link>
+      <atom:link href="/tags/minicurso/index.xml" rel="self" type="application/rss+xml" />
+    <description>minicurso</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Nov 2023 08:48:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>ensino</title>
-      <link>/tags/ensino/</link>
+      <title>minicurso</title>
+      <link>/tags/minicurso/</link>
     </image>
     
     <item>
@@ -27,25 +27,6 @@
 &lt;a href=&#34;https://www.overleaf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt; como IDE.&lt;/p&gt;
 &lt;p&gt;Fique a vontade para usar/contribuir todos os arquivos estão disponíveis 
 &lt;a href=&#34;https://github.com/jp-guimaraes/latex-intro/tree/introducao-ao-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nesse&lt;/a&gt; repositório no Github.&lt;/p&gt;
-&lt;p&gt;Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para 
-&lt;a href=&#34;mailto:joao.guimaraes@ifrn.edu.br&#34;&gt;joao.guimaraes@ifrn.edu.br&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Minicurso Arduíno - Expotec IFRN/JC 2019</title>
-      <link>/ensino/workshop_arduino/</link>
-      <pubDate>Tue, 19 Nov 2019 08:48:00 +0100</pubDate>
-      <guid>/ensino/workshop_arduino/</guid>
-      <description>&lt;p&gt;Olá pessoal,&lt;/p&gt;
-&lt;p&gt;Nessa página vou referenciar alguns links referentes ao minicurso introdutório de Arduino, ministrado na Expotec do Campus do IFRN de João Câmara em 2019.&lt;/p&gt;
-&lt;p&gt;Os slides estão disponíveis 
-&lt;a href=&#34;https://jp-guimaraes.github.io/intro_arduino/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aqui&lt;/a&gt;. Fique a vontade para 
-&lt;a href=&#34;https://github.com/jp-guimaraes/intro_arduino&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;usar/contribuir&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Os firmwares usados no curso estão 
-&lt;a href=&#34;https://github.com/jp-guimaraes/intro_arduino/tree/master/codes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;O minicurso usa o simulador 
-&lt;a href=&#34;https://www.tinkercad.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tinkercad&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Sugestões, comentários, críticas e dúvidas são sempre bem-vindas. Basta enviar um e-mail para 
 &lt;a href=&#34;mailto:joao.guimaraes@ifrn.edu.br&#34;&gt;joao.guimaraes@ifrn.edu.br&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/ensino/</loc>
+    <lastmod>2023-11-21T08:48:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/ensino/</loc>
+    <lastmod>2023-11-21T08:48:00+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-11-21T08:48:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/latex/</loc>
+    <lastmod>2023-11-21T08:48:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/minicurso/</loc>
+    <lastmod>2023-11-21T08:48:00+01:00</lastmod>
+  </url><url>
+    <loc>/ensino/minicurso_latex/</loc>
+    <lastmod>2023-11-21T08:48:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-11-21T08:48:00+01:00</lastmod>
+  </url><url>
     <loc>/tags/cultura/</loc>
     <lastmod>2022-04-03T15:48:00+01:00</lastmod>
   </url><url>
@@ -11,34 +32,16 @@
     <loc>/blog/dicas/</loc>
     <lastmod>2022-04-03T15:48:00+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-04-03T15:48:00+01:00</lastmod>
-  </url><url>
     <loc>/blog/</loc>
     <lastmod>2022-04-03T15:48:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-04-03T15:48:00+01:00</lastmod>
-  </url><url>
-    <loc>/ensino/</loc>
-    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/ensino/</loc>
-    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/latex/</loc>
-    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
-  </url><url>
-    <loc>/ensino/workshop_latex/</loc>
-    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
-  </url><url>
-    <loc>/tags/workshop/</loc>
-    <lastmod>2021-09-23T08:48:00+01:00</lastmod>
   </url><url>
     <loc>/tags/arduino/</loc>
     <lastmod>2019-11-19T08:48:00+01:00</lastmod>
   </url><url>
     <loc>/ensino/workshop_arduino/</loc>
+    <lastmod>2019-11-19T08:48:00+01:00</lastmod>
+  </url><url>
+    <loc>/tags/workshop/</loc>
     <lastmod>2019-11-19T08:48:00+01:00</lastmod>
   </url><url>
     <loc>/tags/comunicados/</loc>
